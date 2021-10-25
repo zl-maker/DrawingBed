@@ -1,2 +1,2 @@
 # DrawingBed
-个人图床
+只限于zl-maker使用的图床哦
